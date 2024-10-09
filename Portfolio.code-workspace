@@ -1,9 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "Portfolio",
-			"path": ".."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
